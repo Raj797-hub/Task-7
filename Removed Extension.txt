@@ -1,0 +1,5 @@
+Removed Extension:
+- Name: Dark Theme - Dark mode for web
+- Type: Theme Modifier
+- Reason: Inverts website color in an unhelpful way; breaks already-dark sites
+- Removed on: 2025-06-09
